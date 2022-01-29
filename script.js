@@ -1,2 +1,2 @@
 alert('Ку')
-console.log('test2')
+console.log('test2 !!!!!!!')
